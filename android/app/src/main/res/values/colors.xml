@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Цвет фона сплэша = surface светлой темы StudMate -->
+    <color name="launch_bg_light">#FBF8FD</color>
+    <!-- Цвет фона сплэша = surface тёмной темы StudMate -->
+    <color name="launch_bg_dark">#131318</color>
+    <!-- Фон адаптивной иконки -->
+    <color name="launcher_background">#9DB8A1</color>
+</resources>

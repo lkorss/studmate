@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <!-- Арт логотипа, уменьшен в safe zone адаптивной иконки -->
+    <group
+        android:pivotX="256"
+        android:pivotY="270"
+        android:scaleX="0.82"
+        android:scaleY="0.82">
+        <!-- Мягкая подложка (круг) -->
+        <path
+            android:fillColor="#B6CDB9"
+            android:pathData="M256,80 m-190,0 a190,190 0 1 0 380,0 a190,190 0 1 0 -380,0" />
+        <!-- Карточка расписания -->
+        <path
+            android:fillColor="#E8F1E6"
+            android:pathData="M132,214 A68,68 0 0 1 200,146 L312,146 A68,68 0 0 1 380,214 L380,326 A68,68 0 0 1 312,394 L200,394 A68,68 0 0 1 132,326 Z" />
+        <!-- Корешки календаря -->
+        <path
+            android:fillColor="#2F4A38"
+            android:pathData="M209,108 a15,15 0 0 1 15,15 L224,161 a15,15 0 0 1 -15,15 L209,176 a15,15 0 0 1 -15,-15 L194,123 a15,15 0 0 1 15,-15 Z" />
+        <path
+            android:fillColor="#2F4A38"
+            android:pathData="M303,108 a15,15 0 0 1 15,15 L318,161 a15,15 0 0 1 -15,15 L303,176 a15,15 0 0 1 -15,-15 L288,123 a15,15 0 0 1 15,-15 Z" />
+        <!-- Буква S -->
+        <path
+            android:pathData="M316,236 C308,212 288,204 258,204 C224,204 204,222 204,246 C204,294 316,266 316,314 C316,340 292,354 258,354 C228,354 208,342 198,320"
+            android:strokeColor="#2F4A38"
+            android:strokeWidth="38"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>

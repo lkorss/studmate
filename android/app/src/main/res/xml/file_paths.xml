@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Скачанные APK для установщика: app-specific external files dir -->
+    <external-files-path name="updates" path="." />
+    <!-- Fallback на внутренний files dir -->
+    <files-path name="internal" path="." />
+</paths>
